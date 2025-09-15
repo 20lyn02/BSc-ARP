@@ -1,19 +1,19 @@
 <h1>A Digital Pound for the UK: Yes or No?</h1>
 
 <h2>Description</h2>
-This project, completed as part of my BSc in Investment and Financial Risk Management at Bayes Business School, explores whether the <b>Digital Pound (D£)</b>, a potential UK Central Bank Digital Currency (CBDC), is justified.  
+This project, completed as part of my BSc in Investment and Financial Risk Management at Bayes Business School, explores whether the **Digital Pound (D£)**, a potential UK Central Bank Digital Currency (CBDC), is justified.  
 
-Using <b>YouGov survey data</b> collected on behalf of the Bank of England (BoE), I analysed consumer and SME payment behaviours, attitudes towards cash and digital payments, and openness to new technologies. The project complements this data with a review of international CBDC experiences and BoE/HM Treasury consultation documents.  
+Using **YouGov survey data** collected on behalf of the Bank of England (BoE), I analysed consumer and SME payment behaviours, attitudes towards cash and digital payments, and openness to new technologies. The project complements this data with a review of international CBDC experiences and BoE/HM Treasury consultation documents.  
 
 The research concludes that while there are compelling reasons to continue the design stage of the Digital Pound, current evidence is insufficient to fully justify its launch.  
 <br />
 
 <h2>Tools and Methods Used</h2>
 
-- <b>Microsoft Excel</b> (survey table analysis, demographic weighting, pivot tables, charting)  
-- <b>Qualitative Research</b> (comparative analysis of launched CBDCs, review of policy papers)  
-- <b>Data Source:</b> YouGov Consumer & SME Payment Behaviour Surveys (commissioned by BoE, 2023)  
-- <b>Secondary Sources:</b> IMF, BIS, Bank of England, HM Treasury, and academic research  
+- **Microsoft Excel** (survey table analysis, demographic weighting, pivot tables, charting)  
+- **Qualitative Research** (comparative analysis of launched CBDCs, review of policy papers)  
+- **Data Source:** YouGov Consumer & SME Payment Behaviour Surveys (commissioned by BoE, 2023)  
+- **Secondary Sources:** IMF, BIS, Bank of England, HM Treasury, and academic research  
 
 ---
 
@@ -37,62 +37,61 @@ The research concludes that while there are compelling reasons to continue the d
 - **BoE Consultation Papers** – Digital Pound design criteria (inclusion, privacy, resilience, innovation).  
 - **International CBDC Cases** – Bahamas Sand Dollar, Nigeria’s eNaira, Jamaica’s Jam-Dex, Eastern Caribbean DCash.  
 
-
 ---
 
 <h2>Methodology</h2>
 
-1. <b>Literature Review</b>  
+1. **Literature Review**  
    - Reviewed launched CBDCs to identify drivers of adoption and causes of failure (e.g. lack of marketing, poor infrastructure, privacy concerns).  
 
-2. <b>Consumer Data Analysis</b>  
+2. **Consumer Data Analysis**  
    - Analysed demographics, internet usage, and banking habits.  
    - Explored payment method preferences (cash vs debit vs online).  
    - Examined switching reluctance and reasons for non-adoption.  
 
-3. <b>SME Data Analysis</b>  
+3. **SME Data Analysis**  
    - Reviewed accepted vs preferred payment methods.  
    - Analysed salary and bill payment practices.  
    - Considered SME reliance on consumer demand.  
 
-4. <b>Design Criteria Mapping</b>  
+4. **Design Criteria Mapping**  
    - Mapped survey findings against BoE/HM Treasury principles (privacy, resilience, inclusion, interoperability).  
 
-5. <b>Findings Synthesis</b>  
+5. **Findings Synthesis**  
    - Integrated consumer/SME survey results with international lessons to form policy recommendations.  
 
 ---
 
 <h2>Key Findings</h2>
 
-- <b>Consumers</b>:  
+- **Consumers:**  
   - 38% use cash weekly; 90% want cash retained.  
   - Debit cards dominate payments (69% in-store, 48% online).  
   - Trust, safety, and privacy rated >90% importance in choosing accounts/payment methods.  
   - 63% have never switched bank providers → strong inertia.  
   - Many wait for others to adopt technology before trying it (46%).  
 
-- <b>SMEs</b>:  
+- **SMEs:**  
   - Strong preference for online bank transfers (56%).  
   - 85% of salaries and 92% of bills paid digitally.  
   - Top priorities: speed, security, reliability, traceability.  
   - Payment acceptance aligns closely with consumer demand.  
 
-- <b>Overall</b>:  
+- **Overall:**  
   - Likely substitution away from deposits, not cash → risk of disintermediation.  
-  - Demand is more about <i>trust, usability, and awareness</i> than technology.  
+  - Demand is more about *trust, usability, and awareness* than technology.  
   - Reluctance to switch is a major barrier; marketing and education would be essential.  
 
 ---
 
 <h2>Recommendations</h2>
 
-- Continue with the <b>design stage</b> but delay launch until demand is clearer.  
-- <b>Marketing & education campaigns</b> to raise awareness across demographics.  
-- <b>Offline functionality</b> to ensure inclusion of non-digital users.  
-- <b>Holding limits</b> to mitigate deposit drain risk.  
-- <b>Privacy safeguards</b> legislated to ensure public trust.  
-- Ensure the Digital Pound <b>complements cash</b> rather than replacing it.  
+- Continue with the **design stage** but delay launch until demand is clearer.  
+- **Marketing & education campaigns** to raise awareness across demographics.  
+- **Offline functionality** to ensure inclusion of non-digital users.  
+- **Holding limits** to mitigate deposit drain risk.  
+- **Privacy safeguards** legislated to ensure public trust.  
+- Ensure the Digital Pound **complements cash** rather than replacing it.  
 
 ---
 
@@ -106,7 +105,7 @@ The research concludes that while there are compelling reasons to continue the d
 
 <h2>Future Work</h2>
 
-- Direct surveys on <i>demand for a Digital Pound</i>, not just payment habits.  
+- Direct surveys on *demand for a Digital Pound*, not just payment habits.  
 - Scenario modelling of bank disintermediation under different adoption levels.  
 - Study demographic subgroups in greater detail (age, region, disability).  
 - Explore remuneration and tokenisation design options.  
