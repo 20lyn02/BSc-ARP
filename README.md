@@ -18,9 +18,10 @@ The research concludes that while there are compelling reasons to continue the d
 ---
 
 <h2>Problem Statement</h2>
-- <b>Goal:</b> Assess whether demand for a UK retail CBDC exists, and if so, what design features would encourage adoption.  
-- <b>Stakeholders:</b> Bank of England, HM Treasury, UK consumers, SMEs, commercial banks.  
-- <b>Key issues:</b>  
+
+- **Goal:** Assess whether demand for a UK retail CBDC exists, and if so, what design features would encourage adoption.  
+- **Stakeholders:** Bank of England, HM Treasury, UK consumers, SMEs, commercial banks.  
+- **Key issues:**  
   - Declining but still significant cash usage  
   - Consumer inertia (rarely switching providers)  
   - Trust, privacy, and security concerns  
@@ -30,10 +31,12 @@ The research concludes that while there are compelling reasons to continue the d
 ---
 
 <h2>Data</h2>
-- <b>YouGov Consumer Survey</b> – 25 questions on payment behaviours, savings, switching, technology adoption.  
-- <b>YouGov SME Survey</b> – 15 questions on accepted/preferred payment methods, bill/salary payments, openness to innovation.  
-- <b>BoE Consultation Papers</b> – Digital Pound design criteria (inclusion, privacy, resilience, innovation).  
-- <b>International CBDC Cases</b> – Bahamas Sand Dollar, Nigeria’s eNaira, Jamaica’s Jam-Dex, Eastern Caribbean DCash.  
+
+- **YouGov Consumer Survey** – 25 questions on payment behaviours, savings, switching, technology adoption.  
+- **YouGov SME Survey** – 15 questions on accepted/preferred payment methods, bill/salary payments, openness to innovation.  
+- **BoE Consultation Papers** – Digital Pound design criteria (inclusion, privacy, resilience, innovation).  
+- **International CBDC Cases** – Bahamas Sand Dollar, Nigeria’s eNaira, Jamaica’s Jam-Dex, Eastern Caribbean DCash.  
+
 
 ---
 
