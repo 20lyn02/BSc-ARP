@@ -86,6 +86,7 @@ The research concludes that while there are compelling reasons to continue the d
 ---
 
 <h2>Recommendations</h2>
+
 - Continue with the <b>design stage</b> but delay launch until demand is clearer.  
 - <b>Marketing & education campaigns</b> to raise awareness across demographics.  
 - <b>Offline functionality</b> to ensure inclusion of non-digital users.  
@@ -96,6 +97,7 @@ The research concludes that while there are compelling reasons to continue the d
 ---
 
 <h2>Limitations</h2>
+
 - Survey-based analysis (self-reported behaviour).  
 - Limited empirical CBDC case studies globally.  
 - No econometric modelling (focus on qualitative + descriptive insights).  
@@ -103,6 +105,7 @@ The research concludes that while there are compelling reasons to continue the d
 ---
 
 <h2>Future Work</h2>
+
 - Direct surveys on <i>demand for a Digital Pound</i>, not just payment habits.  
 - Scenario modelling of bank disintermediation under different adoption levels.  
 - Study demographic subgroups in greater detail (age, region, disability).  
